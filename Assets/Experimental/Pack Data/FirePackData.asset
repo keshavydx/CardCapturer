@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0446145cfa3d943aba88b62977780f, type: 3}
+  m_Name: FirePackData
+  m_EditorClassIdentifier: 
+  packName: Fire Pack
+  packArt: {fileID: -6342479496178101569, guid: b8e0a66ca7d11734e90e46df42e79644, type: 3}
+  commonCards:
+  - {fileID: 11400000, guid: f0b5b607c299e324ebaa1547e8398d48, type: 2}
+  - {fileID: 11400000, guid: b00a20b95296580489dfce287e6d7f60, type: 2}
+  - {fileID: 11400000, guid: ae775b05002a2b74880fc5e12c471955, type: 2}
+  - {fileID: 11400000, guid: 7d33eb77cc27dde4d983e63f01624fcb, type: 2}
+  - {fileID: 11400000, guid: f090871785208cf4fa3513b629907303, type: 2}
+  uncommonCards:
+  - {fileID: 11400000, guid: abf03f160d3c5874f90f50e0693d75c6, type: 2}
+  - {fileID: 11400000, guid: 546a1a5cca182274483e4c675bbadcfb, type: 2}
+  - {fileID: 11400000, guid: f317863705c99e94baeaa67ce7b80e44, type: 2}
+  - {fileID: 11400000, guid: 1c21c0d53630daf4e81e774fbec95309, type: 2}
+  rareCards:
+  - {fileID: 11400000, guid: 58c09e9198b9efc44b9928c0fbb08dbb, type: 2}
+  - {fileID: 11400000, guid: 6b72e14ea9f9ebd4daf8d1500bfeb358, type: 2}
+  legendaryCards:
+  - {fileID: 11400000, guid: 1db47f1d77f19334484c106ac4ed7a1c, type: 2}
+  - {fileID: 11400000, guid: 992d7768ef130af48be0f96e9f3eaa33, type: 2}
+  commonChance: 0.67
+  uncommonChance: 0.25
+  rareChance: 0.07
+  legendaryChance: 0.01

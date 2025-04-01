@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0446145cfa3d943aba88b62977780f, type: 3}
+  m_Name: GrassPackData
+  m_EditorClassIdentifier: 
+  packName: 
+  packArt: {fileID: 0}
+  commonCards: []
+  uncommonCards: []
+  rareCards: []
+  legendaryCards: []
+  commonChance: 0.6
+  uncommonChance: 0.25
+  rareChance: 0.1
+  legendaryChance: 0.05
